@@ -2,7 +2,7 @@
 
 ![Web-site](https://img.shields.io/badge/page-YoonSung--Park.github.io-lightgray)
 
-![Banner-Logo](assets/profile-logo.jpg)
+![Banner-Logo](public/profile-logo.jpg)
 
 ## `Portfolio` Page
 
